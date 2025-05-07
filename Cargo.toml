@@ -1,0 +1,11 @@
+[package]
+name = "xtree"
+version = "0.1.0"
+edition = "2021"
+authors = ["Fernando Paredes García <fernando@develcuy.com>"]
+license = "MIT"
+description = "A lightweight directory tree generator."
+repository = "https://github.com/DevElCuy/xtree"
+
+[dependencies]
+clap = "3"
